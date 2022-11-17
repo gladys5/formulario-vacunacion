@@ -7,6 +7,6 @@ utilizando hooks basicos de react useState y useEfect,tailwindCss para los estil
 
 
 se registran los datos del paciente al que se le realizara la aplicacion y se crea una nota si alguno de los campos esta vacio se muestra mensaje y no se continua hasta ser correctamente llenados
- ##deployment https://capable-halva-03715c.netlify.app/
+ # deployment https://capable-halva-03715c.netlify.app/
 ![crudVacunacion](https://user-images.githubusercontent.com/85569433/201649876-6b657bc6-7d7e-4b9d-bbe1-c254d986d3ff.PNG)
 ![seguimiento](https://user-images.githubusercontent.com/85569433/201649890-3f4b9c4e-c2ed-4db5-9b46-ed68d6a75014.PNG)
